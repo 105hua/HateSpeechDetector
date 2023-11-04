@@ -1,0 +1,8 @@
+name: HateSpeechDetector
+version: '${version}'
+main: me.joshua.hatespeechdetector.HateSpeechDetector
+api-version: '1.20'
+prefix: HSD
+authors: [105hua]
+description: A plugin for Paper that allows AI Hate Speech Detection in Minecraft.
+website: https://105hua.github.io

@@ -1,0 +1,4 @@
+build/
+.idea/
+.gradle/
+# Probably more stuff to add in the future, unsure.
